@@ -16,6 +16,6 @@ public class Movie {
     private String title;
     private String country;
 
-//    private byte[] data;
-//    private List<Category> categories;
+    private byte[] data;
+    private List<Category> categories;
 }
